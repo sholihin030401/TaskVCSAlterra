@@ -6,11 +6,6 @@ public class Task{
         System.out.println("Hello, C");
         System.out.println("Hello, D");
         System.out.println("Hello, F");
-<<<<<<< HEAD
-        System.out.println("Hello, Project B");
-        System.out.println("Hello, New Project");
-=======
         System.out.println("Hello, Project A");
->>>>>>> ProjectA
     }
 }
