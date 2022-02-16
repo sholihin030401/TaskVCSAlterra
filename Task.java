@@ -7,5 +7,7 @@ public class Task{
         System.out.println("Hello, D");
         System.out.println("Hello, F");
         System.out.println("Hello, Project A");
+        System.out.println("Hello, Project A 2");
+        System.out.println("Hello, Project A 3");
     }
 }
